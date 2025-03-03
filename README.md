@@ -7,5 +7,5 @@
 ## WORKING PRINCIPLE OF DIFFERENTIAL PAIR AMPLIFIER :<br>
 
 ### Basic Structure:<br>
-
-
+<br>
+![Image](https://github.com/user-attachments/assets/4127aee6-3353-4876-941f-df0106dd3b16)
