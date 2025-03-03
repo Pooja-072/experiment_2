@@ -8,4 +8,7 @@
 
 ### Basic Structure:<br>
 <br>
-![Image](https://github.com/user-attachments/assets/4127aee6-3353-4876-941f-df0106dd3b16)
+
+![mospair](https://github.com/user-attachments/assets/518b2b0d-fc94-4921-8b5f-caafb7b475b9)<br>
+
+
